@@ -1,0 +1,40 @@
+baseURL: /
+languageCode: en-us
+title: How do we play this game?
+theme: PaperMod
+paginate: 5
+
+params:
+#  title: Dan's Blog
+  description: "Just a list of things that happens to me from day to day."
+  defaultTheme: auto
+  ShowFullTextinRSS: true
+  homeInfoParams:
+    Title: How do we play this game?
+    Content: Just a list of things that happens to me from day to day.
+  socialIcons:
+    - name: RSS
+      url: "index.xml"
+    #- name: Twitter
+    #  url: "https://twitter.com/danburd"
+  
+menu:
+  main:
+  - identifier: archives
+    name: Archives
+    url: /archives/
+    weight: 30
+  - identifier: search
+    name: Search
+    url: /search/
+    weight: 40
+  
+goldmark:
+  renderer:
+    unsafe: true
+        
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
