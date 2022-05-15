@@ -17,6 +17,7 @@ params:
       url: "index.xml"
     #- name: Twitter
     #  url: "https://twitter.com/danburd"
+  hideFooter: true
   
 menu:
   main:
