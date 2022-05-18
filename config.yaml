@@ -2,34 +2,40 @@ baseURL: /
 languageCode: en-us
 title: How do we play this game?
 theme: PaperMod
-paginate: 5
+paginate: 40
 
 params:
-#  title: Dan's Blog
-  description: "Just a list of things that happens to me from day to day."
+  title: How do we play this game?
+  description: Just a list of things that happens to me from day to day.
   defaultTheme: auto
   ShowFullTextinRSS: true
   homeInfoParams:
     Title: How do we play this game?
     Content: Just a list of things that happens to me from day to day.
   socialIcons:
-    - name: RSS
-      url: "index.xml"
-    #- name: Twitter
-    #  url: "https://twitter.com/danburd"
+    #- name: RSS
+    #  url: index.xml
   hideFooter: true
+  ShowPostNavLinks: true
   
-menu:
-  main:
-  - identifier: archives
-    name: Archives
-    url: /archives/
-    weight: 30
-  - identifier: search
-    name: Search
-    url: /search/
-    weight: 40
-  
+#menu:
+#  main:
+#  - identifier: archives
+#    name: Archives
+#    url: /archives/
+#    weight: 30
+#  - identifier: search
+#    name: Search
+#    url: /search/
+#    weight: 40
+#  - identifier: categories
+#    name: Categories
+#    url: /categories/
+#    weight: 50
+
+permalinks:
+  Posts: /:slug/
+
 goldmark:
   renderer:
     unsafe: true
