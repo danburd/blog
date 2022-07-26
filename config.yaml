@@ -17,24 +17,29 @@ params:
     #  url: index.xml
   hideFooter: true
   ShowPostNavLinks: true
+  env: production
   
-#menu:
-#  main:
-#  - identifier: archives
-#    name: Archives
-#    url: /archives/
-#    weight: 30
-#  - identifier: search
-#    name: Search
-#    url: /search/
-#    weight: 40
+menu:
+  main:
+  - identifier: archives
+    name: Archives
+    url: /archives/
+    weight: 30
+  - identifier: search
+    name: Search
+    url: /search/
+    weight: 40
 #  - identifier: categories
 #    name: Categories
 #    url: /categories/
 #    weight: 50
 
 permalinks:
-  Posts: /:slug/
+#  Posts: /:slug/
+#  Posts: /:year/:month/:slug/
+#  Posts: /:slugorfilename
+#  Posts: /:filename/
+  Posts: /:year-:month-:day/
 
 goldmark:
   renderer:
