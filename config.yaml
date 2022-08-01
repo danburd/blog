@@ -17,7 +17,7 @@ params:
     #  url: posts/index.xml
   hideFooter: true
   ShowPostNavLinks: true
-#  env: production
+  env: production
   
 menu:
   main:
