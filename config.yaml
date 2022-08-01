@@ -14,10 +14,10 @@ params:
     Content: Just a list of things that happens to me from day to day.
   socialIcons:
     #- name: RSS
-    #  url: index.xml
+    #  url: posts/index.xml
   hideFooter: true
   ShowPostNavLinks: true
-  env: production
+#  env: production
   
 menu:
   main:
