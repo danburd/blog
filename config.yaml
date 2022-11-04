@@ -13,8 +13,10 @@ params:
     Title: How do we play this game?
     Content: Just a list of things that happens to me from day to day.
   socialIcons:
-    #- name: RSS
-    #  url: posts/index.xml
+    - name: RSS
+      url: posts/index.xml
+    - name: mastodon
+      url: "https://mastodon.social/@danburd"
   hideFooter: true
   ShowPostNavLinks: true
   env: production
