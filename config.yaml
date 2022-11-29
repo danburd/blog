@@ -3,49 +3,52 @@ languageCode: en-us
 title: How do we play this game?
 theme: PaperMod
 paginate: 40
+buildFuture: true
 
 params:
-  title: How do we play this game?
-  description: Just a list of things that happens to me from day to day.
-  defaultTheme: auto
-  ShowFullTextinRSS: true
-  homeInfoParams:
-    Title: How do we play this game?
-    Content: Just a list of things that happens to me from day to day.
-  socialIcons:
-    - name: RSS
-      url: posts/index.xml
-    - name: mastodon
-      url: "https://mastodon.social/@danburd"
-  hideFooter: true
-  ShowPostNavLinks: true
-  env: production
+    title: How do we play this game?
+    description: Just a list of things that happens to me from day to day.
+    defaultTheme: auto
+    ShowFullTextinRSS: true
+    homeInfoParams:
+        Title: How do we play this game?
+        Content: Just a list of things that happens to me from day to day.
+    socialIcons:
+        - name: RSS
+          url: posts/index.xml
+        - name: mastodon
+          url: "https://mastodon.social/@danburd"
+    hideFooter: true
+    ShowPostNavLinks: true
+    env: production
+    DateFormat: January 2, 2006 @ 3:04 PM
   
 menu:
-  main:
-  - identifier: archives
-    name: Archives
-    url: /archives/
-    weight: 30
-  - identifier: search
-    name: Search
-    url: /search/
-    weight: 40
-#  - identifier: categories
-#    name: Categories
-#    url: /categories/
-#    weight: 50
+    main:
+        - identifier: archives
+          name: Archives
+          url: /archives/
+          weight: 30
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 40
+#        - identifier: categories
+#          name: Categories
+#          url: /categories/
+#          weight: 50
 
 permalinks:
-#  Posts: /:slug/
-#  Posts: /:year/:month/:slug/
-#  Posts: /:slugorfilename
-#  Posts: /:filename/
-  Posts: /:year-:month-:day/
+#    Posts: /:slug/
+#    Posts: /:year/:month/:slug/
+#    Posts: /:slugorfilename
+    Posts: /:filename/
+#    Posts: /:year-:month-:day/
 
-goldmark:
-  renderer:
-    unsafe: true
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
         
 outputs:
     home:
