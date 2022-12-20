@@ -6,7 +6,7 @@ date: 2022-11-28T20:00:00-05:00
 
 There was a time when the internet wasn't so scary. A cherished part of my after-school ritual as a teenager was to write a blog entry and read my friends' entries. We wrote in long-form about our lives, using unguarded language to describe our emotions. It's almost unthinkable now, but at the time we thought it would never end. This was the internet to us: we each had our own webpage which described our lives. Our Xangas, Blogspots, Livejournals reflected our experiences and personalities.
 
-{{< figure src="images/old-blog-screenshot.png" caption="Remember this?" >}}
+{{< image src="images/old-blog-screenshot.png" caption="Remember this?" >}}
 
 I remember several incidents that caused this vision of the internet to lose its luster for me. During my senior year of high school, I observed on StatCounter that someone had arrived at my blog as a result of searching for my English teacher's obscure surname. (I had naïvely used my blog to complain about him a great deal.) I assumed the teacher himself had viewed my blog and I panicked; I revised all entries to only include the first initials of my teachers' names, and I used robots.txt to ban all search engines from crawling my blog. (I never learned if it was him.)
 
@@ -14,7 +14,7 @@ A few months later, I received a phone call at my home from the College Board th
 
 Finally, in college someone left a not-so-nice comment about me on one of my entries. It was vague, but irritating, as I'd always enjoyed reading the comments on my blog and this sullied that ritual. As small as that comment was, it discouraged me from writing as much. Notably, blogs had fallen somewhat out of favor at this point; the long-form, earnest writing of our high school years seemed passé in light of the pithier Facebook posts and photos that most of my peers used to document their college experiences. Blogging had become lonelier.
 
-{{< figure src="images/old-facebook-screenshot.png" caption="Bummer." >}}
+{{< image src="images/old-facebook-screenshot.png" caption="Bummer." >}}
 
 I continued to use my blog to write about my travels. I felt that my out-of-town entries were more interesting, and more important to record too. When my travels became less frequent and I started a family, I stopped posting altogether. When I started applying for new jobs and trying to earn my career tenure with the federal government, I took the blog down from public view and I never put it back up. While I didn't think any of my high school lamentations would be career-ending, I didn't perceive a benefit to leaving them online either.
 
