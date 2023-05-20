@@ -1,21 +1,18 @@
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
-{{ $small := $original.Resize "720x" }}
 
 <figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
            {{- if eq (.Get "align") "center" }}align-center {{ end }}
            {{- with .Get "class" }}{{ . }}{{- end }}"
 {{- end -}}>
-    <a href="{{ $original.RelPermalink }}">
-        <img
-            loading="lazy"
-            src="{{ $small.RelPermalink }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
-            {{- if or (.Get "alt") (.Get "caption") }}
-            alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-            {{- end }}
-            width="{{ $small.Width -}}"
-            height="{{ $small.Height -}}"
-        />
-    </a>
+    <img
+        loading="lazy"
+        src="{{ $original.RelPermalink }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
+        {{- if or (.Get "alt") (.Get "caption") }}
+        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+        {{- end }}
+        width="{{ $original.Width -}}"
+        height="{{ $original.Height -}}"
+    />
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") }}
     <figcaption>
         {{ with (.Get "title") -}}

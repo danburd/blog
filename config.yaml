@@ -14,17 +14,22 @@ params:
         Title: How do we play this game?
         Content: Just a list of things that happens to me from day to day.
     socialIcons:
-        - name: RSS
-          url: posts/index.xml
-        - name: mastodon
-          url: "https://mastodon.social/@danburd"
+#        - name: RSS
+#          url: posts/index.xml
+#        - name: mastodon
+#          url: "https://mastodon.social/@danburd"
     hideFooter: true
     ShowPostNavLinks: true
     env: production
-    DateFormat: January 2, 2006 @ 3:04 PM
+    DateFormat: January 2, 2006
+    images: ["share/how-do-we-play-this-game.png"]
   
 menu:
     main:
+        - identifier: rss
+          name: RSS
+          url: /posts/index.xml
+          weight: 20
         - identifier: archives
           name: Archives
           url: /archives/
@@ -42,8 +47,8 @@ permalinks:
 #    Posts: /:slug/
 #    Posts: /:year/:month/:slug/
 #    Posts: /:slugorfilename
-    Posts: /:filename/
-#    Posts: /:year-:month-:day/
+#    Posts: /:filename/
+    Posts: /:year-:month-:day/
 
 markup:
     goldmark:
