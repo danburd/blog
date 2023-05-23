@@ -23,6 +23,8 @@ params:
     env: production
     DateFormat: January 2, 2006
     images: ["share/how-do-we-play-this-game.png"]
+    assets:
+        faviconsvg: "/favicon.svg"
   
 menu:
     main:

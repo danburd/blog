@@ -2,7 +2,11 @@
 title: Back to blogging
 summary: Getting this going again.
 date: 2022-11-28T12:00:00-05:00
-images: ["/2022-11-28/images/P1000567.JPG"]
+images: ["/2022-11-28/images/P1000567.jpg"]
+cover:
+    image: "images/P1000567.jpg"
+    relative: true
+    hidden: true
 ---
 
 There was a time when the internet wasn't so scary. A cherished part of my after-school ritual as a teenager was to write a blog entry and read my friends' entries. We wrote in long-form about our lives, using unguarded language to describe our emotions. It's almost unthinkable now, but at the time we thought it would never end. This was the internet to us: we each had our own webpage which described our lives. Our Xangas, Blogspots, Livejournals reflected our experiences and personalities.
@@ -21,7 +25,7 @@ I continued to use my blog to write about my travels. I felt that my travel-rela
 
 But I still loved my blog. It was authentically mine in a way that few things have ever been. So, I took some steps to preserve it. A few years ago I downloaded the entire blog from Blogger — in one big, messy file — and converted it to [Markdown](https://en.wikipedia.org/wiki/Markdown). (In hindsight, I should have been writing in Markdown the whole time, but I didn't know about it when I was writing the blog.) I placed each blog entry in a separate Markdown file and used them to populate a locally-hosted static site generator. I also took time to track down every embedded photo that was still available — in the highest resolution I could find — and make them viewable within the locally-hosted site, while commenting out lost photos I'd unfortunately embedded from sources like Facebook. After all of this, I finally felt like I had the fast, simple, customizable blog that I'd always wanted but that I hadn't been technically-savvy enough to create when I was younger. It was a joy to peruse my old travels and experiences in such a format.
 
-{{< image src="images/P1000567.JPG" caption="It's great to look back at old blog entries." >}}
+{{< image src="images/P1000567.jpg" caption="It's great to look back at old blog entries." >}}
 
 Ever since I completed this project, I've wondered whether I should start a new blog. I still don't have a lot to say that others would find interesting. But I'd still like to have a place to share stories and photos, at least once in awhile. And I want to have my own online home rather than using algorithm-driven social networks, which I strongly dislike.
 
