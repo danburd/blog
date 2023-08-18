@@ -1,22 +1,17 @@
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
 
-<figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
-           {{- if eq (.Get "align") "center" }}align-center {{ end }}
-           {{- with .Get "class" }}{{ . }}{{- end }}"
-{{- end -}}>
+<figure class="{{ with .Get "class" }}{{ . }}{{ end }}">
     <img
-        loading="lazy"
-        src="{{ $original.RelPermalink }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
-        {{- if or (.Get "alt") (.Get "caption") }}
+        src="{{ $original.RelPermalink }}"
         alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
-        {{- end }}
         width="{{ $original.Width -}}"
         height="{{ $original.Height -}}"
+        loading="lazy"
     />
     {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") }}
     <figcaption>
         {{ with (.Get "title") -}}
-            {{ . }}
+            <h4>{{ . }}</h4>
         {{- end -}}
         {{- if or (.Get "caption") (.Get "attr") -}}<p>
             {{- .Get "caption" | markdownify -}}

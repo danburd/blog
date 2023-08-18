@@ -1,0 +1,30 @@
+{{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $options := (.Get "o") }}
+{{ $small := $original.Resize $options }}
+
+<figure class="{{ with .Get "class" }}{{ . }}{{ end }}">
+    <a href="{{ $original.RelPermalink }}">
+        <img
+            src="{{ $small.RelPermalink }}"
+            alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+            width="{{ $small.Width -}}"
+            height="{{ $small.Height -}}"
+            loading="lazy"
+        />
+    </a>
+    {{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") }}
+    <figcaption>
+        {{ with (.Get "title") -}}
+            <h4>{{ . }}</h4>
+        {{- end -}}
+        {{- if or (.Get "caption") (.Get "attr") -}}<p>
+            {{- .Get "caption" | markdownify -}}
+            {{- with .Get "attrlink" }}
+                <a href="{{ . }}">
+            {{- end -}}
+            {{- .Get "attr" | markdownify -}}
+            {{- if .Get "attrlink" }}</a>{{ end }}</p>
+        {{- end }}
+    </figcaption>
+    {{- end }}
+</figure>

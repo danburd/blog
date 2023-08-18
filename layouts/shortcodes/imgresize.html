@@ -1,0 +1,15 @@
+{{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $options := (.Get "o") }}
+{{ $small := $original.Resize $options }}
+
+
+<a href="{{ $original.RelPermalink }}">
+    <img
+        src="{{ $small.RelPermalink }}"
+        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+        width="{{ $small.Width -}}"
+        height="{{ $small.Height -}}"
+        loading="lazy"
+        class="{{ with .Get "class" }}{{ . }}{{ end }}"
+    />
+</a>

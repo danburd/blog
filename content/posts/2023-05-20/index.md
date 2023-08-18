@@ -4,7 +4,7 @@ summary: Uncovering the history of my kids' school.
 date: 2023-05-20T12:00:00-04:00
 images: ["/2023-05-20/images/fb_mshefnerclass1952-1954-2-cropped.jpg"]
 cover:
-    image: "images/fb_mshefnerclass1952-1954-2-cropped.jpg"
+    image: "files/fb_mshefnerclass1952-1954-2-cropped.jpg"
     relative: true
     hidden: true
 ---
@@ -29,7 +29,7 @@ Several months later, I realized there were many more files at the Center for Lo
 
 I found the most important document on a visit in January.
 
-{{< image src="images/1969-05-13.png" alt="A document showing when each school in Arlington integrated" >}}
+{{< figresize o=720x src="files/1969-05-13.png" alt="A document showing when each school in Arlington integrated" >}}
 
 I gave a sort of involuntary yelp when I found this. It's a single, standalone document that shows when each school in Arlington integrated. I found it in a vaguely-named file in a record group concerning desegregation (Record Group 69, Series 3, Box 8, File 10, which is called "History Documents"). I have not seen it anywhere online despite its obvious historical value. It shows that my kids' school — conveniently listed first on the page — admitted its first Black student in 1968, and that three Black students were enrolled in that first year. That timing made perfect sense since the [Fair Housing Act](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1968#Title_VIII%E2%80%94fair_housing) passed in 1968, which aimed to prevent the sort of blatant discrimination that had likely kept the school segregated for so long.
 
@@ -37,8 +37,8 @@ So I now knew what year integration had happened. But I still knew nothing about
 
 I started showing long-time teachers at the school what I had been able to find out and asking them what they knew. Word got back to the school librarian, who told me that I was welcome to look through a box of old documents she had that had been sealed up for at least several years. I didn't expect much. However, it turned out that it was mostly filled with yearbooks, and I was surprised to see they went back to the 1960's. There was even one from 1968. Here are a couple of pages from it:
 
-{{< image src="images/yearbook-1968-1969-6-cropped.png" alt="Yearbook photos from 1968-1969" >}}
-{{< image src="images/yearbook-1968-1969-1-cropped.png" alt="Yearbook photos from 1968-1969" >}}
+{{< figresize o=720x src="files/yearbook-1968-1969-6-cropped.png" alt="Yearbook photos from 1968-1969" >}}
+{{< figresize o=720x src="files/yearbook-1968-1969-1-cropped.png" alt="Yearbook photos from 1968-1969" >}}
 
 Seeing these yearbook photos was remarkable. I was more curious than ever to know the story behind the school's integration. Unfortunately, the yearbook had no names. But the photos brought me closer than ever. I showed them to school staff and people in the community to see if anyone could give me any leads. Eventually, a community member directed me to a Facebook group for people who grew up in my neighborhood. The group had already shared some valuable photos I'd never seen before, including [a photo of what the school looked like when it was built in 1950](https://www.abingdonpta.org/history/images/fb_1955-1957school3.jpg). I shared the yearbook photos with the group and asked if anybody could identify either of the Black girls in the photos. Two people quickly responded with the name of the girl in 6th grade.
 
@@ -56,4 +56,4 @@ While I was doing all of this research, I produced [a website where I obsessivel
 
 I'll soon have more opportunities to share stories about local history, as I'm joining my neighborhood's historical society. I'm looking forward to learning more, and to sharing what I learn with my neighbors.
 
-{{< image src="images/fb_mshefnerclass1952-1954-2-cropped.jpg" caption="A 1950's classroom photo from my kids' school." >}}
+{{< figresize o=720x src="files/fb_mshefnerclass1952-1954-2-cropped.jpg" caption="A 1950's classroom photo from my kids' school." >}}
