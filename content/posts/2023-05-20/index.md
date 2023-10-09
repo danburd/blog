@@ -2,7 +2,7 @@
 title: Segregation in my neighborhood
 summary: Uncovering the history of my kids' school.
 date: 2023-05-20T12:00:00-04:00
-images: ["/2023-05-20/images/fb_mshefnerclass1952-1954-2-cropped.jpg"]
+images: ["/2023-05-20/files/fb_mshefnerclass1952-1954-2-cropped.jpg"]
 cover:
     image: "files/fb_mshefnerclass1952-1954-2-cropped.jpg"
     relative: true
