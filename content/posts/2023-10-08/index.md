@@ -6,7 +6,6 @@ images: ["/2023-10-08/files/freshrss-screenshot.png"]
 cover:
     image: "files/freshrss-screenshot.png"
     relative: true
-    hidden: true
 ---
 
 I still remember the first time I used a feed reader. I was still in high school in 2004 when I used the Sage RSS reader extension for Firefox to load new articles on the BBC World News website. It was revolutionary - it showed a list of news articles in chronological order, highlighting which articles I hadn't seen yet. I didn't have to view articles through the website, which showed the articles in an unhelpful order and highlighted stories I didn't consider important. From that point on I didn't want to read news or blogs any other way.

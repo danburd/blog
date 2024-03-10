@@ -1,0 +1,10 @@
+{{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+
+<img
+    src="{{ $original.RelPermalink }}"
+    alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+    width="{{ $original.Width -}}"
+    height="{{ $original.Height -}}"
+    loading="lazy"
+    class="{{ with .Get "class" }}{{ . }}{{ end }}"
+/>

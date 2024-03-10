@@ -6,7 +6,6 @@ images: ["/2023-05-20/files/fb_mshefnerclass1952-1954-2-cropped.jpg"]
 cover:
     image: "files/fb_mshefnerclass1952-1954-2-cropped.jpg"
     relative: true
-    hidden: true
 ---
 
 My son attends a school that was built in 1950. When I first learned that from [the school's website](https://abingdon.apsva.us/about-us/our-school/), I figured the school must have been segregated. We live in the South, and 1950 was before Brown v. Board of Education was decided in 1954. It didn't feel great that my son was attending a school that used to be segregated. I tried not to think about it.

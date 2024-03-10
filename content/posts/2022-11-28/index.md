@@ -6,7 +6,6 @@ images: ["/2022-11-28/files/P1000567.jpg"]
 cover:
     image: "files/P1000567.jpg"
     relative: true
-    hidden: true
 ---
 
 There was a time when the internet wasn't so scary. A cherished part of my after-school ritual as a teenager was to write a blog entry and read my friends' entries. We wrote in long-form about our lives, using unguarded language to describe our emotions. It's almost unthinkable now, but at the time we thought it would never end. This was the internet to us: we each had our own webpage which described our lives. Our Xangas, Blogspots, Livejournals reflected our experiences and personalities.

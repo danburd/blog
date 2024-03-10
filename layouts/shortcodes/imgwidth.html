@@ -1,0 +1,19 @@
+{{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $semiwidth := (.Get "w") }}
+{{ $newwidth := (float $semiwidth) }}
+{{ $oldwidth := (float $original.Width) }}
+{{ $oldheight := (float $original.Height) }}
+{{ $ratio := (div $oldheight $oldwidth) }}
+{{ $newheight := (mul $ratio $newwidth) }}
+
+
+<a href="{{ $original.RelPermalink }}">
+    <img
+        src="{{ $original.RelPermalink }}"
+        alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
+        width="{{ $newwidth -}}"
+        height="{{ $newheight -}}"
+        loading="lazy"
+        class="{{ with .Get "class" }}{{ . }}{{ end }}"
+    />
+</a>

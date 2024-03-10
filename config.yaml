@@ -25,6 +25,8 @@ params:
     images: ["share/how-do-we-play-this-game.png"]
     assets:
         faviconsvg: "/favicon.svg"
+    cover:
+        linkFullImages: false
   
 menu:
     main:
