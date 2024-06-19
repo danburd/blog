@@ -1,8 +1,8 @@
 ---
-title: An ode to my feed reader
+title: Gratitude for my feed reader
 summary: An appreciation of Atom/RSS feeds and the programs that read them.
 date: 2023-10-08T12:00:00-04:00
-images: ["/2023-10-08/files/freshrss-screenshot.png"]
+images: ["files/freshrss-screenshot.png"]
 cover:
     image: "files/freshrss-screenshot.png"
     relative: true

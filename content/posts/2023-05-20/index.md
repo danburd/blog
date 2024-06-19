@@ -2,7 +2,7 @@
 title: Segregation in my neighborhood
 summary: Uncovering the history of my kids' school.
 date: 2023-05-20T12:00:00-04:00
-images: ["/2023-05-20/files/fb_mshefnerclass1952-1954-2-cropped.jpg"]
+images: ["files/fb_mshefnerclass1952-1954-2-cropped.jpg"]
 cover:
     image: "files/fb_mshefnerclass1952-1954-2-cropped.jpg"
     relative: true
@@ -46,7 +46,7 @@ Her name was unique enough that it was not difficult to find her contact informa
 
 At this point, I wanted to share with students what I'd learned. I made a presentation to the school's Diversity, Equity and Inclusion Committee, and they recommended that I present to fourth grade students, as that is the year that students learn about Virginia history, including desegregation. I reached out to the school's fourth grade teachers, and all five of them generously gave me forty minutes to speak to each of their classes to talk about the school's history, including what I was able to learn about its desegregation.
 
-I showed several old photos from the school and the neighborhood that I had found in newspapers, in the Center for Local History's archives, and on Facebook. I showed them the floor plan of the original school, which was relevant since most of the fourth grade classrooms in which I was presenting happened to be original classrooms. We talked about how the school building had seen renovations and additions, but that some of it was still relatively unchanged. I showed them photos from a 1985 playground construction project, which they really enjoyed.
+I showed several old photos from the school and the neighborhood that I had found in newspapers, in the Center for Local History's archives, and on Facebook. I showed them [the floor plan of the original school](https://www.abingdonpta.org/history/pdf/floor-plan-1949.pdf), which was relevant since most of the fourth grade classrooms in which I was presenting happened to be original classrooms. We talked about how the school building had seen renovations and additions, but that some of it was still relatively unchanged. I showed them [photos from a 1985 playground construction project](https://www.abingdonpta.org/history/#1985-playground-construction), which they really enjoyed.
 
 And I explained that the school had been segregated. This seemed to surprise some students. I walked them through the history, starting with Brown v. Board of Education, local civil disobedience to [Massive Resistance](https://en.wikipedia.org/wiki/Massive_resistance), and protests of housing discrimination in our neighborhood. When I showed them the 1968 yearbook photos, there was an awed silence as they soaked it in. I explained that integration didn't just happen at Stratford or Little Rock; at every school in the South that was old enough, *someone was first*. And that includes their own school. I concluded by saying that history wasn't just for states and countries, but that a neighborhood or even a building like a school could have its own history. And sometimes this type of history is the most interesting.
 

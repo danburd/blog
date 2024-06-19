@@ -2,7 +2,7 @@
 title: Back to blogging
 summary: Getting this going again.
 date: 2022-11-28T12:00:00-05:00
-images: ["/2022-11-28/files/P1000567.jpg"]
+images: ["files/P1000567.jpg"]
 cover:
     image: "files/P1000567.jpg"
     relative: true

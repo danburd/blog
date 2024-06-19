@@ -106,3 +106,7 @@
     color: var(--secondary);
     box-shadow: 0 1px 0 var(--primary);
 }
+
+figure {
+    text-align: center;
+}
