@@ -1,6 +1,6 @@
 ---
-title: Option Schools Harm Arlington
-summary: I've seen their impact on neighborhood schools. It's not good.
+title: The Problems with Option Schools
+summary: Their repercussions are deeply felt at Arlington neighborhood schools.
 date: 2024-06-19T12:00:00-04:00
 images: ["files/montessori.jpg"]
 cover:
@@ -9,9 +9,9 @@ cover:
     hiddenInSingle: true
 ---
 
-There are 25 public elementary schools in Arlington, VA. 20 are neighborhood schools and 5 are "[option schools](https://www.apsva.us/schools-programs/#es-options)," for which parents can enter a lottery to enroll their child. There are two Spanish immersion schools, one Montessori school, one "[Expeditionary School](https://en.wikipedia.org/wiki/Expeditionary_learning_schools)", and one "[Traditional School](https://ats.apsva.us/)."
+There are 25 public elementary schools in Arlington, VA. 20 are neighborhood schools and 5 are "[option schools](https://www.apsva.us/schools-programs/#es-options)," for which parents can enter a lottery to enroll their child. There are two Spanish immersion schools, one Montessori school, one "[Expeditionary School](https://en.wikipedia.org/wiki/Expeditionary_learning_schools)", and one "[Traditional School](https://ats.apsva.us/)." There are also option programs at the middle and high school level.
 
-I've often viewed these option schools with dismay; not necessarily because of the education they provide, but because of the impact they have on other schools. These impacts had been rarely discussed, but they have recently been subject to scrutiny following [a proposal to spend approximately $40 million](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/D5XLTW5568A2/$file/G-2%20School%20Board%20Proposed%20FY2025-34%20CIP%20Supt%20Prop%20CIP%20Presentation%20(Rev.%20060524%201126%20am).pdf#page=67) to renovate a building for the Montessori school's usage. This will drain Arlington's already limited funds, which could alternatively be spent to fix its crumbling neighborhood schools.
+I've often viewed these option schools with dismay; not necessarily because of the education they provide, but because of the impact they have on other schools. These repercussions had been rarely discussed, but they have recently been subject to scrutiny following [a proposal to spend approximately $40 million](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/D5XLTW5568A2/$file/G-2%20School%20Board%20Proposed%20FY2025-34%20CIP%20Supt%20Prop%20CIP%20Presentation%20(Rev.%20060524%201126%20am).pdf#page=67) to renovate a building for the Montessori school's usage. This will drain Arlington's already limited funds, which could alternatively be spent to fix its crumbling neighborhood schools.
 
 {{< figresize o=720x src="files/drew.jpg" caption="Dr. Charles R. Drew Elementary, a neighborhood school, had its roof leak recently." >}}
 
@@ -23,7 +23,7 @@ My children attended preschool in our neighborhood, very close to our home and t
 
 More importantly, these were parents who were active in the community and engaged enough with the school system to make an affirmative choice to attend an option school. Their energy and engagement would have been an asset at our neighborhood school — a much-needed asset, I would soon learn.
 
-It didn't take long after that first school year to realize that our neighborhood school's PTA was underperforming. Their website hadn't been updated in ages, the meetings provided no useful information, and the PTA itself had had its tax exemption revoked by the IRS, among other compliance deficiencies. Myself, my wife, and others came together to get elected to the PTA board the following year and we remedied these deficiencies. But we rarely had the volunteers we needed, and even getting those volunteers wasn't easy. We got used to seeing the same few faces over and over again.
+It didn't take long after that first school year started to realize that our neighborhood school's PTA was underperforming. Their website hadn't been updated in ages, the meetings provided no useful information, and the PTA itself had had its tax exemption revoked by the IRS, among other compliance deficiencies. Myself, my wife, and others came together to get elected to the PTA board the following year and we remedied these deficiencies. But we rarely had the volunteers we needed, and even getting those volunteers wasn't easy. We got used to seeing the same few faces over and over again.
 
 Option school communities rarely face this challenge to the degree that neighborhood schools do. Their PTA's are robust, their boards full, their events well staffed. This is in part because their parents are sufficiently engaged to make the decision to send their children to an option school — they also tend to be sufficiently engaged to volunteer there, as well.
 
@@ -39,7 +39,7 @@ And why wouldn't they? They speak both languages and they want their children to
 
 By contrast, many parents of students at our nearby Spanish immersion school are second-generation immigrants. They are far more familiar with American life, and are more affluent as well. (This is borne out by their PTA's budget, which is twice as large as ours.) Their white collar jobs enable them to volunteer more frequently. They would be a huge asset at our school, especially as mentors to our immigrant families. But, they aren't there.
 
-### Racial Segregation
+### Racial Resegregation
 
 [Our school](/2023-05-20), and our school system, was racially segregated by statute. There are still vast differences in the racial makeup of schools in our system, due in part to historical settlement patterns, wealth disparities, zoning rules, and concentration of subsidized housing. However, option schools also contribute to modern-day racial segregation. White families are opting out of majority-minority schools, and into option schools where there are more White people.
 
@@ -55,11 +55,11 @@ For three schools in particular — Barcroft, Carlin Springs, and Drew — the o
 
 It's instructive to examine one planning unit in particular — 35040. This corresponds generally to the Glencarlyn neighborhood. This predominantly White, low-poverty neighborhood is zoned for Carlin Springs, and is in its walk zone as well. However, the parents of 33 of 40 students in this neighborhood — 82% — chose option schools over their walkable neighborhood school.
 
-Following the recent 70th anniversary of Brown v. Board of Education there was [hand-wringing about how schools have re-segregated in recent decades](https://apnews.com/article/school-integration-brown-board-supreme-court-9d84858db3717620a77bfae0b478cab8). Option schools are one such mechanism. They aren't the only factor, or maybe even the most dominant one, but for Arlington they would be the easiest to reverse.
+Following the recent 70th anniversary of Brown v. Board of Education there was [hand-wringing about how schools have resegregated in recent decades](https://apnews.com/article/school-integration-brown-board-supreme-court-9d84858db3717620a77bfae0b478cab8). Option schools are one such mechanism for resegregation. They aren't the only factor, or maybe even the dominant one, but for Arlington they would be the easiest to reverse.
 
 ### Stability Gap
 
-Option schools admit the students for whom they have room, and no more. When they have reached that point, they "pull the drawbridge up." If students leave, the school may admit additional students from their waitlist, but otherwise their rosters are fairly stable. They are shielded from the considerable mid-year churn of students in Arlington, where people move in and out frequently.
+Option schools admit the students for whom they have capacity, and no more. When they have reached that point, they "pull the drawbridge up." If students leave, the school may admit additional students from their waitlist, but otherwise their rosters are fairly stable. They are shielded from the considerable mid-year churn of students in Arlington, where people move in and out frequently.
 
 Our school is not shielded. In fact, having an option school nearby has the opposite effect. All (or nearly all) mid-year enrollees in our very populous attendance zone attend our school, as the option schools have waitlists that pre-date these students' residence in Arlington. The result is that our school admitted over 80 students between the start and end of this school year, with a net gain of 50 students. The school is obligated to seat every student who resides in their attendance zone. There is no drawbridge to pull up. It doesn't matter when they enroll; one student started on the second-to-last day of school. Furthermore, the school administration said that 96% of these mid-year enrollees were English learners, many with interrupted formal education. This churn and these types of students are a challenge for our school, in both education and in building a long-term community — a challenge that isn't shared equally among schools.
 
@@ -93,6 +93,6 @@ The proposal would starve neighborhood schools of much-needed funds to perform b
 
 ### Conclusion
 
-Option schools in Arlington create many inequities and distortions in our community. These long went unexamined because the communities most disadvantaged by them have little influence with the School Board and the media. The Montessori proposal, coupled with the Arlington school system's depleted reserves and heightened awareness of structural deficits, has put Montessori and other option school programs under a harsh spotlight that is long overdue.
+Option schools in Arlington create distortions and exacerbate inequalities in our community. These long went unexamined because the communities most disadvantaged by them have little influence with the School Board and the media. The Montessori proposal, coupled with the Arlington school system's depleted reserves and heightened awareness of structural deficits, has put Montessori and other option school programs under a harsh spotlight that is long overdue.
 
 It's time to prioritize neighborhood schools. And it's also time to consider whether our option programs are a net benefit to Arlington.
