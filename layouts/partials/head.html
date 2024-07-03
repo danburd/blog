@@ -14,6 +14,7 @@
 {{- if .IsHome }}
 {{ with site.Params.keywords -}}<meta name="keywords" content="{{- range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
 <link rel="me" href="https://mastodon.social/@danburd" /> 
+<meta name="fediverse:creator" content="@danburd@mastodon.social" />
 {{- else }}
 <meta name="keywords" content="{{ if .Params.keywords -}}
     {{- range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} {{- else }}
