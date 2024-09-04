@@ -7,6 +7,7 @@ cover:
     image: "files/montessori.jpg"
     relative: true
     hiddenInSingle: true
+aliases: ["/option-schools"]
 ---
 
 There are 25 public elementary schools in Arlington, VA. 20 are neighborhood schools and 5 are "[option schools](https://www.apsva.us/schools-programs/#es-options)," for which parents can enter a lottery to enroll their child. There are two Spanish immersion schools, one Montessori school, one "[Expeditionary School](https://en.wikipedia.org/wiki/Expeditionary_learning_schools)", and one "[Traditional School](https://ats.apsva.us/)." There are also option programs at the middle and high school level.

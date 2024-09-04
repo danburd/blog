@@ -2,7 +2,6 @@ baseURL: https://www.danburd.com/
 languageCode: en-us
 title: How do we play this game?
 theme: PaperMod
-paginate: 40
 buildFuture: true
 
 params:
@@ -27,7 +26,10 @@ params:
         faviconsvg: "/favicon.svg"
     author: Dan Burd
     hideAuthor: true
-  
+
+pagination:
+    pagerSize: 40
+
 menu:
     main:
         - identifier: rss
